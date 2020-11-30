@@ -10,6 +10,4 @@ npm i path
 # Creditos do prejeto
 
 Contado do discord:
-<Mailo/>#4222
-Matheuuus#7083
-sim#6732
+<Mailo/>#4222<br>Matheuuus#7083<br>sim#6732
