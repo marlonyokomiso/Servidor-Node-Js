@@ -6,3 +6,10 @@ Antes de ligar o projeto abra o console na pasta do projeto e digites os comando
 
 npm i express
 npm i path
+
+# Creditos do prejeto
+
+Contado do discord:
+<Mailo/>#4222
+Matheuuus#7083
+sim#6732
