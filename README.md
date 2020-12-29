@@ -1,12 +1,11 @@
-# Servidor Node Js
-Um servidor simples em node js para tirar o .html da URL do seu site.
+# 📜 Servidor Node Js
+Este servidor em Node Js foi inteiramente desenvolvido por eu e mais 2 pessoas, ele esta no github para ajuda mais pessoas posiveis.
 
-# NPM install
-Antes de ligar o projeto abra o console na pasta do projeto e digites os comandos abaixo:
+# 📂 Package
+Para instalar os package digite no seu console:
 
-npm i express<br>npm i path (Opcional!)
+npm i
 
-# Creditos do prejeto
+# 🧪 Rotas
 
-Contado do discord:
-<Mailo/>#4222<br>Matheuuus#7083<br>sim#6732
+Para você cria um rota para um Style, você pode Usa o mesmo exemplo da rota teste e so vincular os arquivos certo e o nome certo.
