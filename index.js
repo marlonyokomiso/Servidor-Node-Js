@@ -2,18 +2,14 @@ const { response } = require('express');
 const express = require('express');
 
 const app = express();
-const { join } = require('path') //nativo
+const { join } = require('path')
 
-//rota
 app.get('/', (request, response) => {
-    console.log('Servidor foi chamado!');
-
-    // return response.sendFile('./index.html');
-    return response.sendFile(join(__dirname, './index.html'));
+    esponse.sendFile(join(__dirname, './index.html'));
 });
 
-app.get('/teste', (_req, res) => {
+app.get('/exemplo', (_req, res) => {
     res.sendFile(join(__dirname, 'teste.html'))
 });
 
-app.listen(3333);
+app.listen(3333); // Coloque a porta que quiser, mas a porta tem que conter 4 digitos em numeros!
