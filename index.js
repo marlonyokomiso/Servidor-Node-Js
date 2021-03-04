@@ -8,8 +8,8 @@ app.get('/', (_req, res) => {
     res.sendFile(join(__dirname, './index.html'));
 });
 
-app.get('/exemplo', (_req, res) => {
+app.get('/css', (_req, res) => {
     res.sendFile(join(__dirname, 'exemplo.html'))
 });
 
-app.listen(4000); // Coloque a porta que quiser, mas a porta tem que conter 4 digitos em numeros!
+app.listen(3000);
