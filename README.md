@@ -5,6 +5,7 @@ Este servidor em Node Js foi inteiramente desenvolvido por eu e mais 2 pessoas, 
 Para instalar os package digite no seu console:
 ```
 npm i express
+node .
 ```
 
 ### 🧪 Rotas
